@@ -1,0 +1,20 @@
+# ninja log v5
+59	274	1609824753668379676	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/clib/libbleu/module.o	b09dbd571044662
+59	459	1609824753879782352	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/clib/libbleu/libbleu.o	15176bc404476dc
+20	3327	1609824757469633058	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/data/data_utils_fast.o	6177f76754378db3
+6	3642	1609824761315342135	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/data/token_block_utils_fast.o	2be5287d438f0a45
+10	13006	1609824774637194885	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/clib/libnat/edit_dist.o	37345b39c8ab580e
+5	3336	1609824836384011309	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/data/data_utils_fast.o	6177f76754378db3
+10	3949	1609824840301918272	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/data/token_block_utils_fast.o	2be5287d438f0a45
+26	13092	1609824854164081891	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/clib/libnat/edit_dist.o	37345b39c8ab580e
+17	15391	1609824869855146133	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/clib/libnat_cuda/binding.o	2c6886a59b140909
+22	270	1609825074195084188	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/clib/libbleu/module.o	ea9a0e3221409bc7
+22	366	1609825074324089237	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/clib/libbleu/libbleu.o	7e6a0792573e9158
+12	3323	1609825077937777664	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/data/data_utils_fast.o	eea68bb56103be3b
+7	3668	1609825081814198651	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/data/token_block_utils_fast.o	1911fd1fdfa14e73
+4	12256	1609825094303115586	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/clib/libnat/edit_dist.o	5bca80472cd61866
+12	14188	1609825108797874061	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/clib/libnat_cuda/binding.o	a0de0f8fa8f97443
+12	3420	1609825240462750932	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/data/data_utils_fast.o	eea68bb56103be3b
+5	3612	1609825244578014908	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/data/token_block_utils_fast.o	1911fd1fdfa14e73
+21	3453	1617524485930612415	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/data/data_utils_fast.o	eea68bb56103be3b
+8	3732	1617524489965904394	/apdcephfs/share_916081/liamding/cl_nat/fairseq/build/temp.linux-x86_64-3.7/fairseq/data/token_block_utils_fast.o	1911fd1fdfa14e73
