@@ -24,14 +24,9 @@ Please cite as:
 
 ```bibtex
 @inproceedings{ding2021rejuvenating,
-    title = "Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation",
-    author = "Ding, Liang  and
-              Wang, Longyue  and
-              Liu, Xuebo  and
-              Wong, Derek F.  and
-              Tao, Dacheng  and
-              Tu, Zhaopeng",
-    booktitle = "ACL",
-    year = "2021"
+    title = {Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation},
+    author = {Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao and Zhaopeng Tu}
+    booktitle = {ACL},
+    year = {2021}
 }
 ```
